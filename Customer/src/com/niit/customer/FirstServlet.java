@@ -108,11 +108,17 @@ public class FirstServlet extends HttpServlet {
 		}
 		
 		// if date of birth have more than 8 digit
-		if(dob.length() > 8)
+		try
 		{
-			al.add("Please enter date of birth sould not exceed 8 digit! ");
+			if(dob.length() > 8)
+			{
+				al.add("Please enter date of birth sould not exceed 8 digit! ");
+			}
 		}
-		
+		catch(Exception e)
+		{
+			al.add("Please enter the date of birth! ");
+		}
 		
 		// for validation of fields it will shows error message 
 		if(al.size() != 0)
