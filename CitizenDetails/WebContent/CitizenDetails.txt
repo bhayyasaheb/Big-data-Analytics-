@@ -1,0 +1,10 @@
+111, Bhayyasaheb Koke, Male, 30-04-93, 24, Nerul, Mumbai, India, 400706, 9730586363, No, No, 5000, 0, SSC, HSC, Graduation, PostGraduation
+222, Sayali Pise, Female, 28-04-93, 17, Mhaswad, Satara, India, 415509, 9821982142, No, No, 5000, 0, SSC, HSC, Graduation, PostGraduation
+333, Sarika Borate, Female, 26-12-87, 30, Nerul, Mumbai, India, 400706, 9825362325, Yes, Yes, 25000, 5, SSC, HSC, Graduation
+444, Shahaji Borate, Male, 17-12-84, 34, Nerul, Mumbai, India, 400706, 9773725404, Yes, Yes, 10000, 3, SSC, HSC
+555, Mangal Gaikwad, Female, 19-04-55, 65, Mhaswad, Mumbai, India, 400706, 3696369563, No, Yes, 5000, 2, SSC
+666, Pawan Kalyan, Male, 19-04-70, 47, Telangana, Hydrabad, India, 500003, 9582365296, Yes, Yes, 100000, 3, SSC, HSC, Graduation, PostGraduation
+777, Naga Arjun, Male, 29-08-59, 58, Madras, Hydrabad, India, 500004, 9536256345, Yes, Yes, 200000, 6, SSC, HSC, Graduation, PostGraduation
+888, Chiranjeevi, Male, 22-08-55, 62, Godavari, Hydrabad, India, 500005, 9421208575, Yes, Yes, 300000, 10, SSC, HSC, Graduation, PostGraduation
+999, Rajinikanth, Male, 12-12-50, 67, Mysore, Banglore, India, 700007, 7722084414, Yes, Yes, 500000, 10, SSC
+1000, Suriya, Male, 23-07-75, 42, Chenai, Chennai, India, 600003, 8600906490, Yes, Yes, 400000, 5, SSC, HSC, Graduation, PostGraduation, PHD
