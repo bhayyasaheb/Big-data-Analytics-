@@ -1,0 +1,20 @@
+T101, 12-11-2017, C10, 3000, Appeareals, Men's Shirt, Cash
+T102, 28-04-2017, C12, 2500, Home Appliances, Home Decor, Net Banking
+T103, 17-05-2017, C3, 10000, Home Appliances, Furniture, CreditCard
+T104, 14-09-2017, C4, 50000, Appeareals, Men's Touser, Cash
+T105, 15-10-2017, C5, 2500, Sports, MRF Bat , DebitCard
+T106, 02-01-2014, C6, 5000, Sports, Badminton, Cash
+T107, 14-12-2016, C7, 3000, Sports, FootBall, CreditCard
+T108, 04-05-2017, C7, 1000, Appeareals, Jens, Cash
+T109, 14-02-2017, C7, 25000, Appeareals, Fashion Jewellery, Net Banking
+T110, 14-10-2015, C1, 1000, Kitchen Appliances, Water Bottle, DebitCard
+T111, 12-05-2017, C1, 10000, Home Appliances, Samsung LED , Net Banking
+T112, 03-11-2017, C1, 2000, Sports, Sports Shoes, Cash
+T113, 03-10-2017, C1, 2000, Appeareals, Men's Shirt, Net Banking
+T114, 02-05-2017, C1, 3000, Sports, Cycle, Cash
+T115, 30-04-2015, C2, 5000, Home Appliances, Bed Topper, Net Banking
+T116, 14-09-2017, C2, 700, Kitchen Appliances, Lunch Box, Cash
+T117, 02-10-2017, C2, 7390, Home Appliances, Washing Machine, CreditCard
+T118, 15-02-2017, C3, 2500, Appeareals, Top, Cash
+T119, 02-11-2017, C3, 15000, Home Appliances, Refrigerator, Net Banking
+T120, 17-06-2015, C3, 1000, Sports, Shoes, Cash

@@ -1,0 +1,7 @@
+C1, Bhayyasaheb Koke, 24, Java & Hadoop Devloper, 350000
+C2, Sayali Pise, 25, Java Devloper, 350000
+C3, Sarika Borate, 30, Railway Police, 300000
+C4, Shahaji Borate, 33, BEST Driver, 250000
+C5, Mohan Lohar, 24, DBA Administator, 450000
+C6, Mahesh Zagade, 25, Production Manager, 300000
+C7, Mahesh Waghmare, 24, SBI PO, 350000

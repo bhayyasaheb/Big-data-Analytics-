@@ -105,6 +105,7 @@ public class MovieDetailsServlet extends HttpServlet {
 				line = br.readLine();
 				
 			}
+			br.close();
 			
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
