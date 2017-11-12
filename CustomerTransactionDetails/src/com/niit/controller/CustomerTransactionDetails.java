@@ -139,7 +139,7 @@ public class CustomerTransactionDetails extends HttpServlet {
 			// Checking id is already exit in a file or not
 			
 			
-			// File reader to read file for checking customer Id already exits or not
+			// File reader to read file for checking customer  already exits or not
 			FileReader  fr = new FileReader("D:\\Oxygen Workpace\\Big-data-Analytics-\\CustomerTransactionDetails\\WebContent\\Customer.txt");
 			BufferedReader br = new BufferedReader(fr);
 			String line = br.readLine();

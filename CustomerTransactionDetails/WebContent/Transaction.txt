@@ -1,5 +1,5 @@
-T101, 12-11-2017, C10, 3000, Appeareals, Men's Shirt, Cash
-T102, 28-04-2017, C12, 2500, Home Appliances, Home Decor, Net Banking
+T101, 12-11-2017, C1, 3000, Appeareals, Men's Shirt, Cash
+T102, 28-04-2017, C2, 2500, Home Appliances, Home Decor, Net Banking
 T103, 17-05-2017, C3, 10000, Home Appliances, Furniture, CreditCard
 T104, 14-09-2017, C4, 50000, Appeareals, Men's Touser, Cash
 T105, 15-10-2017, C5, 2500, Sports, MRF Bat , DebitCard
